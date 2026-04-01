@@ -11,7 +11,6 @@ Hi I am Shreyas Mali, Aspiring software developer working on real-world skills.<
 ![](https://github-readme-stats.vercel.app/api?username=shreyasmaliDEV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shreyasmaliDEV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmaliDEV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-https://github-readme-streak-stats.herokuapp.com/?user=shreyasmaliDEV&theme=radical
 ![Shreyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasmaliDEV&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
