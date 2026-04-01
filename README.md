@@ -1,12 +1,13 @@
 # 💫 About Me
 
-Hi, I’m Shreyas Mali — an aspiring software developer.  
+Hi, I’m Shreyas Mali — an aspiring software developer. 
+
 Java | Spring Boot | REST APIs | SQL  
 
-Exploring DevOps, automation, and end-to-end system workflows. 
+Exploring DevOps, automation, and end-to-end workflows. 
 
-I turn complexity into clarity — breaking down complicated problems and finding simple, practical solutions.  
-B.Tech in Computer Science and Engineering 
+I turn complexity into clarity — breaking down problems and finding simple solutions.  
+B.Tech in Computer Science and Engineering  
 
 ---
 
@@ -25,43 +26,14 @@ B.Tech in Computer Science and Engineering
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats & Streak
-<table>
-<tr>
-<td>
-
-![Shreyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasmaliDEV&show_icons=true&theme=dark&count_private=true)
-
-</td>
-<td>
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shreyasmaliDEV&theme=dark)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmaliDEV&layout=compact&theme=dark)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shreyasmaliDEV&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasmaliDEV&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmaliDEV&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shreyasmaliDEV&theme=dark)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shreyasmaliDEV&theme=dark)
 
 ---
 
