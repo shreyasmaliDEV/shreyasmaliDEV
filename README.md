@@ -33,9 +33,9 @@ B.Tech in Computer Science and Engineering
 ---
 
 ## 📊 GitHub Stats
-![Shreyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasmaliDEV&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmaliDEV&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shreyasmaliDEV&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasmaliDEV&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmaliDEV&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shreyasmaliDEV&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shreyasmaliDEV&theme=dark)
 
 ---
